@@ -1,6 +1,6 @@
 # GC Count
 
-inputFile = open('/Users/jrhinehart/Downloads/rosalind_gc.txt' , 'r')
+inputFile = open('/Users/joshr/Documents/rosalind/datasets/rosalind_dna.txt' , 'r')
 fileLines = inputFile.readlines()
 
 dataset_seq = {}    # { 'Rosalind_xxxx' : 'GATTACA' }
